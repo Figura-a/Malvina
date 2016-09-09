@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMalvina",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMalvina",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
