@@ -1,4 +1,4 @@
 connecting
 connect
 	
-	remotePeer := node remotePeerAt: address
+	remotePeer := node remotePeerAt: address.

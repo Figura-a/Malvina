@@ -1,4 +1,8 @@
 start-stop
 stop
 	
-	server stop
+	server ifNotNil: #stop.
+	network ifNotNil: #close.
+	
+	server := network := nil.
+	

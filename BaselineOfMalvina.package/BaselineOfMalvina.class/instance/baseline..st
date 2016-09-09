@@ -17,4 +17,5 @@ baseline: spec
 				baseline: 'MultiTest'
 				with: [ spec repository: 'github://guillep/MultiTest' ].
 			spec
-				package: 'Malvina' with: [ spec requires: #('Seamless' 'MultiTest' 'TaskIt') ] ]
+				package: 'Malvina' with: [ spec requires: #('Seamless' 'TaskIt') ];
+				package: 'Malvina-Tests' with: [ spec requires: #('Malvina' 'MultiTest') ] ]

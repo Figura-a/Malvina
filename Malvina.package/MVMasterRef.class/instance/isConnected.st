@@ -1,4 +1,8 @@
 testing
 isConnected
 	
-	^ remotePeer isNil or: [ remotePeer isConnectedToRemotePeer ]
+	^ remotePeer notNil and: [ 
+		"Ping to force connection"
+		[remotePeer evaluate: [ true ]] on: Error do: [].
+	
+		remotePeer isConnected ]
