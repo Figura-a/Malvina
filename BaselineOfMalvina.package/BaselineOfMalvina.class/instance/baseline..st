@@ -11,7 +11,10 @@ baseline: spec
 						versionString: '0.9.0';
 						repository: 'http://smalltalkhub.com/mc/Pharo/Seamless/main/' ].
 			spec
+				baseline: 'TaskIt'
+				with: [ spec repository: 'github://sbragagnolo/Taskit:dev-0.3' ].
+			spec
 				baseline: 'MultiTest'
 				with: [ spec repository: 'github://guillep/MultiTest' ].
 			spec
-				package: 'Malvina' with: [ spec requires: #('Seamless' 'MultiTest') ] ]
+				package: 'Malvina' with: [ spec requires: #('Seamless' 'MultiTest' 'TaskIt') ] ]
