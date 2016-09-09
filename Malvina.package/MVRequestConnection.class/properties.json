@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MVRequestConnection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

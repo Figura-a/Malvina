@@ -1,0 +1,15 @@
+{
+	"category" : "Malvina",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"remotePeer",
+		"peer" ],
+	"name" : "MVRemoteSlaveNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina-TaskIt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cluster" ],
+	"name" : "MVClusterRoundRobinScheduler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Malvina-Slave",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"service",
+		"masterRefs" ],
+	"name" : "MVNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

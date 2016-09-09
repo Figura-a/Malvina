@@ -1,0 +1,4 @@
+accessing
+currentMasterNode
+
+	^ Current

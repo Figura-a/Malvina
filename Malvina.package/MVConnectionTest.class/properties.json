@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MVConnectionTest",
+	"pools" : [
+		 ],
+	"super" : "MPMultiTestCase",
+	"type" : "normal" }

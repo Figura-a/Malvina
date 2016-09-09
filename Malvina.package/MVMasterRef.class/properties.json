@@ -1,0 +1,16 @@
+{
+	"category" : "Malvina-Slave",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"address",
+		"node",
+		"remotePeer" ],
+	"name" : "MVMasterRef",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

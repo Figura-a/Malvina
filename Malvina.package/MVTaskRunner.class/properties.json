@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina-TaskIt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"remoteTaskRunner" ],
+	"name" : "MVTaskRunner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

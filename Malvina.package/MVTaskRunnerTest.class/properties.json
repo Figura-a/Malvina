@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MVTaskRunnerTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

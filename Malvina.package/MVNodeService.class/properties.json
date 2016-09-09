@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina-Slave",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node" ],
+	"name" : "MVNodeService",
+	"pools" : [
+		 ],
+	"super" : "TKTService",
+	"type" : "normal" }

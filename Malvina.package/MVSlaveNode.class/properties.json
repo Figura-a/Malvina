@@ -1,0 +1,14 @@
+{
+	"category" : "Malvina",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MVSlaveNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

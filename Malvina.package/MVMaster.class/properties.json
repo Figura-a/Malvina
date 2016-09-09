@@ -1,0 +1,16 @@
+{
+	"category" : "Malvina-Master",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port",
+		"network",
+		"server" ],
+	"name" : "MVMaster",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
