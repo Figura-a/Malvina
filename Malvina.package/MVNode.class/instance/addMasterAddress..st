@@ -1,4 +1,4 @@
-configuring
+accessing
 addMasterAddress: aTCPAddress 
 	
 	masterRefs add: (MVMasterRef new

@@ -1,4 +1,4 @@
-stop
+start-stop
 stop
 	
 	service ifNotNil: #stop.

@@ -9,7 +9,8 @@ testSlaveConnectsToMasterIfSlaveIsUpFirst
 		node start.
 		self announce: #slaveUp.
 		self waitFor: #serverStarted.
-		node isConnected.
+		1 second wait.
+		self assert: node isConnected.
 	].
 
 	self with: #master do: [ | node |
