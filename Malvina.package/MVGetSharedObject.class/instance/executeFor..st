@@ -1,6 +1,6 @@
-as yet unclassified
+execution
 executeFor: senderPeer
 
 	| sharedObject |
-	sharedObject := context network sharedObjectAt: key.
-	context returnValue: Smalltalk to: senderPeer
+	sharedObject := senderPeer network sharedObjectAt: key.
+	context returnValue: sharedObject to: senderPeer

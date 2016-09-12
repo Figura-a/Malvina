@@ -5,6 +5,6 @@ start
 	
 	self assertSingleMasterNode.
 
-	network := SeamlessNetwork new.
+	network := MVNetwork new.
 	server := network startServerOn: self address port.
 	running := true.

@@ -1,4 +1,4 @@
 accessing
 sharedObjectAt: aKey
 
-	sharedObjects at: aKey
+	^ sharedObjects at: aKey
