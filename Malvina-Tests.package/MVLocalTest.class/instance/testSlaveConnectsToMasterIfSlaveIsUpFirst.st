@@ -5,7 +5,7 @@ testSlaveConnectsToMasterIfSlaveIsUpFirst
 	node addMasterAddress: (TCPAddress localAt: 59261).
 	node start.
 
-	master := MVMaster new.
+	master := MVMasterNode new.
 	master startOnPort: 59261.
 
 	1 second wait.

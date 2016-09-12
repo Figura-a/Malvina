@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"remoteTaskRunner" ],
-	"name" : "MVTaskRunner",
+		"sharedObjects" ],
+	"name" : "MVNetwork",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SeamlessNetwork",
 	"type" : "normal" }

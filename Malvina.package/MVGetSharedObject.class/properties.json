@@ -1,14 +1,14 @@
 {
-	"category" : "Malvina-TaskIt",
+	"category" : "Malvina-Networking",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"cluster" ],
-	"name" : "MVClusterRoundRobinScheduler",
+		"key" ],
+	"name" : "MVGetSharedObject",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SeamlessRequest",
 	"type" : "normal" }

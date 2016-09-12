@@ -1,7 +1,7 @@
 as yet unclassified
 testSlaveConnectsToMasterIfMasterIsUpBefore
 
-	master := MVMaster new.
+	master := MVMasterNode new.
 	master startOnPort: 59261.
 	
 	node := MVNode new.
