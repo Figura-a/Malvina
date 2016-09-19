@@ -1,4 +1,4 @@
 connection
 tryConnect
 
-	[ self connect ] ifError: [  ]
+	[ self isConnected ifFalse: [ self connect ] ] ifError: [  ]
